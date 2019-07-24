@@ -12,6 +12,6 @@ Wyeksportowany plik svg należy poddać korekcie kolorystycznej:
 Generator pracuje wyłącznie w przestrzeni barwnej RGB,</br>
 jest to niestety nieunikniona niedogodność wynikająca z charakteru środowiska Processing.
 
-Jest to zmodyfikowana przeze mnie (@janymal) wersja.
+Jest to zmodyfikowana przeze mnie ([@janymal](https://github.com/janymal)) wersja.
 
 ![Screenshot](https://raw.githubusercontent.com/janymal/ck_raster/master/readme/screenshot_1.png)
