@@ -5,12 +5,11 @@ który odpowiada wizualnie naszym wymaganiom.
 
 
 #### Ważne!
-Wyeksportowany plik svg należy poddać korekcie kolorystycznej:
+Wyeksportowany plik SVG należy poddać korekcie kolorystycznej:
 1. zmienić profil RGB na CMYK,
 2. wyzerować wartości C, M, Y w celu uzyskania czystej czerni rastra.
 
-Generator pracuje wyłącznie w przestrzeni barwnej RGB,</br>
-jest to niestety nieunikniona niedogodność wynikająca z charakteru środowiska Processing.
+Generator pracuje wyłącznie w przestrzeni barwnej RGB.
 
 Jest to zmodyfikowana przeze mnie ([@janymal](https://github.com/janymal)) wersja.
 
