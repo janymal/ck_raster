@@ -1,7 +1,6 @@
 # Generator Rastra CK
-Generator to program napisany w środowisku Processing.<br/>
-Daje on możliwość manipulowania rastrem przy użyciu kilku parametrów, byśmy mogli zdefiniować raster,<br/>
-który odpowiada wizualnie naszym wymaganiom.
+Generator to program napisany w środowisku Processing.
+Daje on możliwość zdefiniowania rastra, który będzie odpowiadał wizualnie naszym wymaganiom, przy użyciu kilku parametrów.
 
 
 #### Ważne!
@@ -11,6 +10,6 @@ Wyeksportowany plik SVG należy poddać korekcie kolorystycznej:
 
 Generator pracuje wyłącznie w przestrzeni barwnej RGB.
 
-Jest to zmodyfikowana przeze mnie ([@janymal](https://github.com/janymal)) wersja.
+Wersja zmodyfikowana przez [@janymal](https://github.com/janymal).
 
 ![Screenshot](https://raw.githubusercontent.com/janymal/ck_raster/master/readme/screenshot_1.png)
